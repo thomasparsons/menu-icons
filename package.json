@@ -1,0 +1,15 @@
+{
+  "name": "menu-icons",
+  "private": false,
+  "description": "An open source Menu Icons package",
+  "version": "0.1.0",
+  "author": "Tom Parsons",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomasparsons/menu-icons"
+  }
+}
